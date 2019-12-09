@@ -23,6 +23,9 @@ Detailed information on the results can be found on the following resources.
 Paper AsiaCCS 2019:
 - http://papers.mathyvanhoef.com/asiaccs2019.pdf
 
+Presentation Black Hat Europe 2019:
+- https://i.blackhat.com/eu-19/Thursday/eu-19-Schepers-Practical-Side-Channel-Attacks-Against-WPA-TKIP-2.pdf
+
 ## Code
 First, install the following dependencies:
 ```
